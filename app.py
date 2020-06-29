@@ -13,7 +13,7 @@ def hello():
     return 'I am good, how about you?'
 
 @app.route('/Vinodh')
-def hello():
+def hello1():
     return 'Krishna'
 
 if __name__ == "__main__":
