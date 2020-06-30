@@ -17,7 +17,7 @@ def hello1():
     return 'Krishna'
 
 @app.route('/Bindu')
-def hello1():
+def hello2():
     return 'Darwaja'
 
 if __name__ == "__main__":
