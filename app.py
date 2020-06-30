@@ -18,7 +18,7 @@ def hello1():
 
 @app.route('/Bindu')
 def hello2():
-    return 'Darwaja'
+    return 'Bagya'
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
